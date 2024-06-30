@@ -1,0 +1,9 @@
+section.hero-banner{
+    background-image: url(../images/hero.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.container-fluid{
+    text-align: center;
+}
